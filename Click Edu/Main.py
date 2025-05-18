@@ -529,7 +529,7 @@ def python():
         elif escolha_python == '8':
             modulos.modpython08()
         elif escolha_python == '9':
-            modulos.quest_python_modulos()
+            quest_python_modulos()
         elif escolha_python == '0':
             break
         else:
